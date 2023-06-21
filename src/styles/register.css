@@ -1,0 +1,116 @@
+ /* .Container {
+    text-align: center;
+    background-color:lightsalmon; 
+    width: 50%;
+    height: 50%;
+    top: 50%;
+    left: 50%;
+    margin-top: 200px;
+    margin-left: 35%;
+    margin-right: 40%;
+  }
+  
+  .input-box{
+      height: 10px;
+      border-radius: 5px;
+      border: 1px solid red;
+      width: 100%;
+      font-size: 16px;
+      font-weight: 400;
+  }
+
+  
+  
+  .button{
+    background-color:black;
+    margin: 10px;
+    padding:10px;
+    border-radius: 10px;
+    box-shadow: 10cap;
+    color: blanchedalmond;
+  }
+  .home{
+    background-color: rgb(211, 137, 241);
+    color: black;
+  }
+  
+  .logout{
+    margin-right: 5px;
+    color:white;
+    font-weight:bold;
+    background-color: black;
+    height: 30px;
+    border-radius: 5px;
+  }
+  .delete{
+    margin-right: 5px;
+    color:white;
+    font-weight: 400;
+    background-color:darkslategray;
+  }
+  
+  .field input{
+    border-radius: 5px;
+    margin:10px;
+    padding: 10px;
+    font-weight: 600;
+  }
+  
+  .login{
+    border-radius: 10px;
+    margin:10px;
+    padding:10px;
+    background-color: black;
+    color: blanchedalmond;
+  }
+  .g-btn{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  } 
+   */
+  .register-box{
+    background-color:darkorchid;    
+  }
+
+  .form-container{
+    margin-top: 8ic;
+    display: 'flex';
+    flex-direction: 'column';
+    align-items: 'center';
+  }
+
+  .form-content{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  .input-container{
+     height: 40px;
+      border-radius: 10px;
+      border: 2px solid gray;
+      width: 100%;
+      font-size: 18px;
+      font-weight: 400;
+      text-align: center;
+      /* background-color: #66eF00; */
+  }
+
+  .g-btn{
+    margin-left: 70px;
+    margin-bottom: 10px;
+    border: 1px solid rgb(78, 78, 236) ;
+    border-radius: 2px;
+    width: fit-content;
+  }
+  .link{
+    color: red;
+  }
+   
+  a:-webkit-any-link {
+    color: Blue;
+    cursor: pointer;
+    text-decoration: underline;
+}

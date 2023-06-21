@@ -1,0 +1,43 @@
+/* .main-container{
+    height: 100%;
+} */
+.heading{
+    color: black;
+    text-align: left;
+    margin-left: 10px;
+    /* position: fixed;
+    top: 10px; */
+    height: 100%;
+}
+
+.content{
+    color: brown;
+    text-align: left;
+    margin-left: 10px;
+    /* position: fixed;
+    top: 25px; */
+
+}
+
+.input-box{
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid whitesmoke;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.input-box:focus-visible{
+    outline: 1px solid whitesmoke;
+}
+
+.card-container{
+    position: sticky;
+    top: 100px;
+    /* margin-top: 100px; */
+    /* overflow-y: scroll; */
+    height: 100%;
+}
+
+

@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.card {
+  text-align: center;
+}
+
+
+ .App {
+  text-align: center;
+  background-color:rgba(232, 237, 239, 0.815);
+  /* width: 50%;
+  height: 50%; */
+  top: 50%;
+  left: 50%;
+  margin-top: 200px;
+  margin-left: 35%;
+  margin-right: 40%;
+}
+
+.button{
+  background-color:black;
+  margin: 10px;
+  padding:10px;
+  border-radius: 10px;
+  box-shadow: 10cap;
+  color: blanchedalmond;
+}
+.home{
+  background-color: rgb(211, 137, 241);
+  color: black;
+}
+
+.logout{
+  margin-right: 5px;
+  color:white;
+  font-weight:bold;
+  background-color: black;
+  height: 30px;
+  border-radius: 5px;
+}
+.delete{
+  margin-right: 5px;
+  color:white;
+  font-weight: 400;
+  background-color:darkslategray;
+}
+
+.field input{
+  border-radius: 5px;
+  margin:10px;
+  padding: 10px;
+  font-weight: 600;
+}
+
+.login{
+  border-radius: 10px;
+  margin:10px;
+  padding:10px;
+  background-color: black;
+  color: blanchedalmond;
+
+}
+.g-btn{
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+  
